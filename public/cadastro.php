@@ -69,7 +69,7 @@
 
     <div class="container">
         <div class="row">
-            <?php include"basics/lateralL.html";?>
+            <?php require_once "basics/lateralL.html";?>
             <!-- main start -->
             <!-- ================ -->
             <div class="main col-md-6 col-lg-6">
