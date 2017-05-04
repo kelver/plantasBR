@@ -1830,11 +1830,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="menu.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="menu.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/basics/menu.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="468">
-              <caret line="44" column="60" lean-forward="false" selection-start-line="44" selection-start-column="60" selection-end-line="44" selection-end-column="60" />
+            <state relative-caret-position="90">
+              <caret line="17" column="45" lean-forward="true" selection-start-line="17" selection-start-column="45" selection-end-line="17" selection-end-column="45" />
               <folding>
                 <element signature="n#style#0;n#a#0;n#li#1;n#ul#0;n#div#1;n#div#0;n#nav#0;n#div#0;n#div#0;n#header#0;n#!!top" expanded="true" />
               </folding>
@@ -1842,11 +1842,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="cadastro.phtml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="cadastro.phtml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/public/cadastro.phtml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="270">
-              <caret line="125" column="69" lean-forward="false" selection-start-line="125" selection-start-column="69" selection-end-line="125" selection-end-column="69" />
+              <caret line="71" column="25" lean-forward="false" selection-start-line="71" selection-start-column="25" selection-end-line="71" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -1930,10 +1930,10 @@
         <option value="$PROJECT_DIR$/public/basics/lateralL.html" />
         <option value="$PROJECT_DIR$/public/basics/headerTop.html" />
         <option value="$PROJECT_DIR$/public/layout.phtml" />
-        <option value="$PROJECT_DIR$/public/cadastro.phtml" />
         <option value="$PROJECT_DIR$/public/sibol.phtml" />
         <option value="$PROJECT_DIR$/public/busca-avancada.phtml" />
         <option value="$PROJECT_DIR$/public/basics/menu.html" />
+        <option value="$PROJECT_DIR$/public/cadastro.phtml" />
       </list>
     </option>
   </component>
@@ -2146,12 +2146,12 @@
       <workItem from="1493347626764" duration="3658000" />
       <workItem from="1493352079378" duration="5177000" />
       <workItem from="1493662402106" duration="5953000" />
-      <workItem from="1493863075648" duration="7146000" />
+      <workItem from="1493863075648" duration="7322000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49004000" />
+    <option name="totallyTimeSpent" value="49180000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1600" height="870" extended-state="6" />
@@ -2538,14 +2538,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/cadastro.phtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="125" column="69" lean-forward="false" selection-start-line="125" selection-start-column="69" selection-end-line="125" selection-end-column="69" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/layout.phtml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="230">
@@ -2558,11 +2550,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/public/basics/menu.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="44" column="60" lean-forward="false" selection-start-line="44" selection-start-column="60" selection-end-line="44" selection-end-column="60" />
+        <state relative-caret-position="90">
+          <caret line="17" column="45" lean-forward="true" selection-start-line="17" selection-start-column="45" selection-end-line="17" selection-end-column="45" />
           <folding>
             <element signature="n#style#0;n#a#0;n#li#1;n#ul#0;n#div#1;n#div#0;n#nav#0;n#div#0;n#div#0;n#header#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/cadastro.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="71" column="25" lean-forward="false" selection-start-line="71" selection-start-column="25" selection-end-line="71" selection-end-column="25" />
+          <folding />
         </state>
       </provider>
     </entry>
